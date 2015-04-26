@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <item name="peeper" type="color">#FFEDD1AC</item>
+    <item name="smalltown" type="color">#FF6C836F</item>
+    <item name="demotron" type="color">#FF80635B</item>
+     <item name="chalk" type="color">#FF362619</item>
+    <item name="white" type="color">#FFFFFFFF</item>
+</resources>

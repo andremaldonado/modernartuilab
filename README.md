@@ -1,2 +1,2 @@
 # modernartuilab
-App for peer assignment from Coursera's "Programming Mobile Apps with Android" course
+App for peer assessment from Coursera's "Programming Mobile Apps with Android" course
