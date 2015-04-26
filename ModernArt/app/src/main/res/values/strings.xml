@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Modern Art</string>
+    <string name="more_information">More Information</string>
+    <string name="more_information_title">Inspired by the works of artists such as Pet Mondrian and Ben Nicholson</string>
+    <string name="more_information_message">Click below to learn more!</string>
+    <string name="more_information_button_visit">Visit MOMA</string>
+    <string name="more_information_button_not_now">Not Now</string>
+    <string name="more_information_url">http://www.moma.org</string>
+</resources>
